@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I am a Junior Developer from Montreal, Qc, Ca.
+
 🔭 I’m currently working on my college thesis project: The Quiet Year - Online Edition!
 - 🌱 I’m currently learning React and Redux!
 - 😄 Pronouns: He/Him/Il
