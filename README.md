@@ -4,6 +4,7 @@ I am a Junior Developer from Montreal, Qc, Ca.
 
 🔭 I am looking for work in the industry as a developer to broaden my experiences and knowledge!
 - 🌱 I'm currently working on an idle game in Unity along with some friends!
+- 🔭 I’m eager to learn more about web development, UX/UI and sound engineering!
 - 👯 I’m looking to collaborate on interractive web based games!
 - ⚡ In my free time, I solve problems on Codewars and Leetcode!
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Yoan-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/yoanpoulintruchon/)
